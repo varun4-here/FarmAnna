@@ -37,5 +37,5 @@ AI-powered farming assistant for crop disease detection using a CNN model. Uploa
 - **Offline Mode** – Android app with offline capabilities.
 - **IoT Integration** – Smart sensors for real-time farm monitoring.
 
-## Additional Capabilities
-FarmAnna also incorporates **Geospatial Analysis** and **LLM Agents** for enhanced insights.
+## Working to add Capabilities
+FarmAnna also looking to incorporate **Geospatial Analysis** and **LLM Agents** for enhanced insights.
